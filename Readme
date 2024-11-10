@@ -1,11 +1,12 @@
 # Desafio 1 - Criação de Página Web - Estrutura de Tags e Semântica
 
-Este projeto faz parte de um desafio proposto. O objetivo é desenvolver uma estrutura de página HTML utilizando tags semânticas corretas para organizar o conteúdo sobre o filme "Garfield: Fora de Casa".
+Este projeto faz parte de um desafio, onde o objetivo é desenvolver uma estrutura de página HTML utilizando tags semânticas corretas.
 
 
 ## 📄 Descrição
 
-Este projeto foi desenvolvido como parte de um desafio de estruturação semântica de uma página HTML, com o objetivo de organizar o conteúdo sobre o filme **"Garfield: Fora de Casa"**. Utilizamos tags semânticas apropriadas para o cabeçalho, conteúdo principal e rodapé, conforme as instruções fornecidas.
+Este projeto foi desenvolvido como parte de um desafio de estruturação semântica de uma página HTML, com o objetivo de organizar o conteúdo sobre um filme
+Utilizamos tags semânticas apropriadas para o cabeçalho, conteúdo principal e rodapé, conforme as instruções fornecidas.
 
 ### 🎬 Link do Projeto
 Acesse o projeto no GitHub Pages: [Garfield: Fora de Casa](https://desafio-1-vnw.vercel.app//)
@@ -72,5 +73,5 @@ Desenvolvido por <b> Renan Casaca. </b>
 
 ## 📫 Contato
 
-- **LinkedIn**: [Renan Casaca](https://www.linkedin.com/in/eduardogomes377/)
-- **E-mail**: [G-mail](rv.casaca@gmail.com)
+- **LinkedIn**: [Renan Casaca](https://www.linkedin.com/in/renancasaca/)
+- **E-mail**: rv.casaca@gmail.com
