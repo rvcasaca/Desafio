@@ -2,7 +2,6 @@
 
 Este projeto faz parte de um desafio, onde o objetivo é desenvolver uma estrutura de página HTML utilizando tags semânticas corretas.
 
-
 ## 📄 Descrição
 
 Este projeto foi desenvolvido como parte de um desafio de estruturação semântica de uma página HTML, com o objetivo de organizar o conteúdo sobre um filme
@@ -47,7 +46,6 @@ Para o design e organização visual, foi utilizado um protótipo no Figma forne
 ## 🚀 Tecnologias Utilizadas
 - **HTML5**: Para estruturação e semântica do conteúdo.
 - **GitHub Pages**: Para o deploy e publicação do projeto.
-
 
 ## 📂 Estrutura de Arquivos
 
