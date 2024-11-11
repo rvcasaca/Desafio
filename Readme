@@ -48,13 +48,6 @@ Para o design e organização visual, foi utilizado um protótipo no Figma forne
 - **HTML5**: Para estruturação e semântica do conteúdo.
 - **GitHub Pages**: Para o deploy e publicação do projeto.
 
-## 💻 Como Executar o Projeto Localmente
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Eduardo377/Desafio-1-VNW.git
-   ```
-2. Abra o arquivo index.html no seu navegador
 
 ## 📂 Estrutura de Arquivos
 
